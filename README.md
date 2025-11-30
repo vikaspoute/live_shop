@@ -387,6 +387,6 @@ firebase_options.dart
 
 **Vikas Poute**
 Flutter Developer (2+ Years)
-Expert in Flutter • Java • Spring Boot • AWS • Clean Architecture
+Flutter • Java • Spring Boot • AWS • Clean Architecture
 
 ---
