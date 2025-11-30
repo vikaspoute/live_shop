@@ -1,0 +1,198 @@
+{
+  "session_001_messages": [
+    {
+      "id": "msg_001",
+      "sessionId": "session_001",
+      "userId": "user_001",
+      "userName": "Sarah Johnson",
+      "userImage": "https://ui-avatars.com/api/?name=Sarah+Johnson&background=4F46E5&color=fff",
+      "text": "Just joined! Excited to see the deals!",
+      "timestamp": "2024-01-15T10:35:00Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_002",
+      "sessionId": "session_001",
+      "userId": "seller_001",
+      "userName": "TechGuru Store",
+      "userImage": "https://ui-avatars.com/api/?name=TechGuru+Store&background=4F46E5&color=fff",
+      "text": "Welcome everyone! Today we have amazing deals on premium electronics!",
+      "timestamp": "2024-01-15T10:35:30Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_003",
+      "sessionId": "session_001",
+      "userId": "user_002",
+      "userName": "Mike Chen",
+      "userImage": "https://ui-avatars.com/api/?name=Mike+Chen&background=EC4899&color=fff",
+      "text": "Are the headphones noise-cancelling?",
+      "timestamp": "2024-01-15T10:36:00Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_004",
+      "sessionId": "session_001",
+      "userId": "seller_001",
+      "userName": "TechGuru Store",
+      "userImage": "https://ui-avatars.com/api/?name=TechGuru+Store&background=4F46E5&color=fff",
+      "text": "Yes! Active noise cancellation with 30-hour battery life!",
+      "timestamp": "2024-01-15T10:36:15Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_005",
+      "sessionId": "session_001",
+      "userId": "user_003",
+      "userName": "Emma Wilson",
+      "userImage": "https://ui-avatars.com/api/?name=Emma+Wilson&background=10B981&color=fff",
+      "text": "Added to cart! 🛒",
+      "timestamp": "2024-01-15T10:36:45Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_006",
+      "sessionId": "session_001",
+      "userId": "user_004",
+      "userName": "John Smith",
+      "userImage": "https://ui-avatars.com/api/?name=John+Smith&background=F59E0B&color=fff",
+      "text": "What colors are available?",
+      "timestamp": "2024-01-15T10:37:00Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_007",
+      "sessionId": "session_001",
+      "userId": "seller_001",
+      "userName": "TechGuru Store",
+      "userImage": "https://ui-avatars.com/api/?name=TechGuru+Store&background=4F46E5&color=fff",
+      "text": "Available in Black, Silver, and Rose Gold!",
+      "timestamp": "2024-01-15T10:37:20Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_008",
+      "sessionId": "session_001",
+      "userId": "user_005",
+      "userName": "Lisa Anderson",
+      "userImage": "https://ui-avatars.com/api/?name=Lisa+Anderson&background=EF4444&color=fff",
+      "text": "Do you ship internationally?",
+      "timestamp": "2024-01-15T10:37:50Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_009",
+      "sessionId": "session_001",
+      "userId": "user_006",
+      "userName": "David Brown",
+      "userImage": "https://ui-avatars.com/api/?name=David+Brown&background=8B5CF6&color=fff",
+      "text": "Great price! Just ordered mine!",
+      "timestamp": "2024-01-15T10:38:15Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_010",
+      "sessionId": "session_001",
+      "userId": "seller_001",
+      "userName": "TechGuru Store",
+      "userImage": "https://ui-avatars.com/api/?name=TechGuru+Store&background=4F46E5&color=fff",
+      "text": "Yes, free shipping worldwide on orders over $100!",
+      "timestamp": "2024-01-15T10:38:30Z",
+      "type": "user"
+    }
+  ],
+  "session_002_messages": [
+    {
+      "id": "msg_011",
+      "sessionId": "session_002",
+      "userId": "user_007",
+      "userName": "Jessica Lee",
+      "userImage": "https://ui-avatars.com/api/?name=Jessica+Lee&background=06B6D4&color=fff",
+      "text": "Love the summer collection! 😍",
+      "timestamp": "2024-01-15T11:05:00Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_012",
+      "sessionId": "session_002",
+      "userId": "seller_002",
+      "userName": "Fashion Hub",
+      "userImage": "https://ui-avatars.com/api/?name=Fashion+Hub&background=EC4899&color=fff",
+      "text": "Thank you! All items are 30% off today only!",
+      "timestamp": "2024-01-15T11:05:20Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_013",
+      "sessionId": "session_002",
+      "userId": "user_008",
+      "userName": "Rachel Green",
+      "userImage": "https://ui-avatars.com/api/?name=Rachel+Green&background=F97316&color=fff",
+      "text": "What sizes are available for the dress?",
+      "timestamp": "2024-01-15T11:06:00Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_014",
+      "sessionId": "session_002",
+      "userId": "seller_002",
+      "userName": "Fashion Hub",
+      "userImage": "https://ui-avatars.com/api/?name=Fashion+Hub&background=EC4899&color=fff",
+      "text": "We have XS to XL available!",
+      "timestamp": "2024-01-15T11:06:15Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_015",
+      "sessionId": "session_002",
+      "userId": "user_009",
+      "userName": "Monica Geller",
+      "userImage": "https://ui-avatars.com/api/?name=Monica+Geller&background=14B8A6&color=fff",
+      "text": "Added both items! Can't wait! 🎉",
+      "timestamp": "2024-01-15T11:07:00Z",
+      "type": "user"
+    }
+  ],
+  "session_003_messages": [
+    {
+      "id": "msg_016",
+      "sessionId": "session_003",
+      "userId": "user_010",
+      "userName": "Tom Harris",
+      "userImage": "https://ui-avatars.com/api/?name=Tom+Harris&background=3B82F6&color=fff",
+      "text": "Does the robot vacuum work on carpet?",
+      "timestamp": "2024-01-15T12:20:00Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_017",
+      "sessionId": "session_003",
+      "userId": "seller_003",
+      "userName": "Home & Living",
+      "userImage": "https://ui-avatars.com/api/?name=Home+Living&background=10B981&color=fff",
+      "text": "Yes! It has powerful suction and works on all floor types!",
+      "timestamp": "2024-01-15T12:20:30Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_018",
+      "sessionId": "session_003",
+      "userId": "user_011",
+      "userName": "Kate Miller",
+      "userImage": "https://ui-avatars.com/api/?name=Kate+Miller&background=EC4899&color=fff",
+      "text": "How long does shipping take?",
+      "timestamp": "2024-01-15T12:21:00Z",
+      "type": "user"
+    },
+    {
+      "id": "msg_019",
+      "sessionId": "session_003",
+      "userId": "seller_003",
+      "userName": "Home & Living",
+      "userImage": "https://ui-avatars.com/api/?name=Home+Living&background=10B981&color=fff",
+      "text": "Express shipping: 2-3 days, Standard: 5-7 days",
+      "timestamp": "2024-01-15T12:21:20Z",
+      "type": "user"
+    }
+  ]
+}

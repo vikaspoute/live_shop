@@ -1,0 +1,69 @@
+{
+  "sessions": [
+    {
+      "id": "session_001",
+      "sellerId": "seller_001",
+      "sellerName": "TechGuru Store",
+      "sellerImage": "https://ui-avatars.com/api/?name=TechGuru+Store&background=4F46E5&color=fff",
+      "title": "Flash Sale: Premium Electronics",
+      "description": "Amazing deals on headphones, speakers, and smart devices. Don't miss out!",
+      "isLive": true,
+      "viewerCount": 1250,
+      "startedAt": "2024-01-15T10:30:00Z",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+      "highlightedProducts": ["product_001", "product_002", "product_003"]
+    },
+    {
+      "id": "session_002",
+      "sellerId": "seller_002",
+      "sellerName": "Fashion Hub",
+      "sellerImage": "https://ui-avatars.com/api/?name=Fashion+Hub&background=EC4899&color=fff",
+      "title": "Summer Collection Launch",
+      "description": "Exclusive first look at our new summer clothing line with special discounts",
+      "isLive": true,
+      "viewerCount": 850,
+      "startedAt": "2024-01-15T11:00:00Z",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "highlightedProducts": ["product_004", "product_005"]
+    },
+    {
+      "id": "session_003",
+      "sellerId": "seller_003",
+      "sellerName": "Home & Living",
+      "sellerImage": "https://ui-avatars.com/api/?name=Home+Living&background=10B981&color=fff",
+      "title": "Smart Home Essentials",
+      "description": "Transform your home with our curated selection of smart home devices",
+      "isLive": true,
+      "viewerCount": 620,
+      "startedAt": "2024-01-15T12:15:00Z",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800",
+      "highlightedProducts": ["product_006", "product_007", "product_008"]
+    },
+    {
+      "id": "session_004",
+      "sellerId": "seller_004",
+      "sellerName": "Beauty Box",
+      "sellerImage": "https://ui-avatars.com/api/?name=Beauty+Box&background=F59E0B&color=fff",
+      "title": "Skincare Secrets Revealed",
+      "description": "Live demo of our best-selling skincare products with expert tips",
+      "isLive": true,
+      "viewerCount": 2100,
+      "startedAt": "2024-01-15T09:45:00Z",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800",
+      "highlightedProducts": ["product_009", "product_010"]
+    },
+    {
+      "id": "session_005",
+      "sellerId": "seller_005",
+      "sellerName": "Fitness Pro",
+      "sellerImage": "https://ui-avatars.com/api/?name=Fitness+Pro&background=EF4444&color=fff",
+      "title": "Workout Gear & Supplements",
+      "description": "Everything you need for your fitness journey - equipment, apparel, and nutrition",
+      "isLive": true,
+      "viewerCount": 450,
+      "startedAt": "2024-01-15T13:00:00Z",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
+      "highlightedProducts": ["product_011", "product_012"]
+    }
+  ]
+}

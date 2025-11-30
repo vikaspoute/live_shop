@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": "product_001",
+      "name": "Premium Wireless Headphones",
+      "description": "Active Noise Cancellation, 30hr battery life, premium sound quality",
+      "price": 199.99,
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "category": "Electronics",
+      "stock": 50,
+      "sessionId": "session_001"
+    },
+    {
+      "id": "product_002",
+      "name": "Bluetooth Smart Speaker",
+      "description": "360° sound, voice assistant, waterproof design",
+      "price": 79.99,
+      "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+      "category": "Electronics",
+      "stock": 100,
+      "sessionId": "session_001"
+    },
+    {
+      "id": "product_003",
+      "name": "Smartwatch Pro",
+      "description": "Fitness tracking, heart rate monitor, GPS, 7-day battery",
+      "price": 299.99,
+      "imageUrl": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400",
+      "category": "Electronics",
+      "stock": 35,
+      "sessionId": "session_001"
+    },
+    {
+      "id": "product_004",
+      "name": "Designer Summer Dress",
+      "description": "Lightweight cotton, floral pattern, perfect for summer",
+      "price": 89.99,
+      "imageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400",
+      "category": "Fashion",
+      "stock": 75,
+      "sessionId": "session_002"
+    },
+    {
+      "id": "product_005",
+      "name": "Classic Denim Jacket",
+      "description": "Premium denim, versatile style, comfortable fit",
+      "price": 119.99,
+      "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400",
+      "category": "Fashion",
+      "stock": 60,
+      "sessionId": "session_002"
+    },
+    {
+      "id": "product_006",
+      "name": "Smart LED Bulb Set (4-Pack)",
+      "description": "WiFi enabled, 16 million colors, voice control compatible",
+      "price": 49.99,
+      "imageUrl": "https://images.unsplash.com/photo-1550985543-49bee3167284?w=400",
+      "category": "Home & Living",
+      "stock": 120,
+      "sessionId": "session_003"
+    },
+    {
+      "id": "product_007",
+      "name": "Robot Vacuum Cleaner",
+      "description": "Auto-charging, app control, HEPA filter, mapping technology",
+      "price": 349.99,
+      "imageUrl": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=400",
+      "category": "Home & Living",
+      "stock": 25,
+      "sessionId": "session_003"
+    },
+    {
+      "id": "product_008",
+      "name": "Smart Thermostat",
+      "description": "Energy saving, remote control, learning algorithm",
+      "price": 179.99,
+      "imageUrl": "https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?w=400",
+      "category": "Home & Living",
+      "stock": 40,
+      "sessionId": "session_003"
+    },
+    {
+      "id": "product_009",
+      "name": "Vitamin C Serum",
+      "description": "Brightening formula, anti-aging, reduces dark spots",
+      "price": 34.99,
+      "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "category": "Beauty",
+      "stock": 200,
+      "sessionId": "session_004"
+    },
+    {
+      "id": "product_010",
+      "name": "Hydrating Face Cream",
+      "description": "24-hour moisture, hyaluronic acid, suitable for all skin types",
+      "price": 29.99,
+      "imageUrl": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?w=400",
+      "category": "Beauty",
+      "stock": 150,
+      "sessionId": "session_004"
+    },
+    {
+      "id": "product_011",
+      "name": "Adjustable Dumbbell Set",
+      "description": "5-52.5 lbs per dumbbell, space-saving design",
+      "price": 399.99,
+      "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=400",
+      "category": "Fitness",
+      "stock": 30,
+      "sessionId": "session_005"
+    },
+    {
+      "id": "product_012",
+      "name": "Protein Powder (2lb)",
+      "description": "Whey isolate, 25g protein per serving, chocolate flavor",
+      "price": 49.99,
+      "imageUrl": "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?w=400",
+      "category": "Fitness",
+      "stock": 80,
+      "sessionId": "session_005"
+    },
+    {
+      "id": "product_013",
+      "name": "Yoga Mat Premium",
+      "description": "Non-slip, eco-friendly, 6mm thick, includes carrying strap",
+      "price": 39.99,
+      "imageUrl": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400",
+      "category": "Fitness",
+      "stock": 95,
+      "sessionId": "session_005"
+    },
+    {
+      "id": "product_014",
+      "name": "Wireless Earbuds",
+      "description": "True wireless, IPX7 waterproof, 24hr battery with case",
+      "price": 89.99,
+      "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400",
+      "category": "Electronics",
+      "stock": 110,
+      "sessionId": "session_001"
+    },
+    {
+      "id": "product_015",
+      "name": "Portable Power Bank 20000mAh",
+      "description": "Fast charging, dual USB ports, LED display",
+      "price": 39.99,
+      "imageUrl": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=400",
+      "category": "Electronics",
+      "stock": 140,
+      "sessionId": "session_001"
+    }
+  ]
+}

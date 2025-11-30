@@ -1,0 +1,75 @@
+name: live_shop
+description: A Live Shopping Flutter App with Real-time Chat and Commerce
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+  flutter: ^3.35.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # State Management
+  bloc: ^9.0.1
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.7
+
+  # Firebase
+  firebase_core: ^4.2.1
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+
+  # Dependency Injection
+  get_it: ^9.1.1
+
+  # Functional Programming
+  dartz: ^0.10.1
+
+  # Local Storage
+  shared_preferences: ^2.5.3
+
+  # UI & Design
+  shadcn_ui: ^0.39.14
+
+  # Utils
+  intl: ^0.20.2
+  meta: ^1.17.0
+
+  # JSON Serialization
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Testing
+  bloc_test: ^10.0.0
+  mocktail: ^1.0.4
+
+  # Code Generation
+  build_runner: ^2.10.4
+  json_serializable: ^6.11.2
+
+  # Linting
+  very_good_analysis: ^10.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  # Assets
+  assets:
+    - assets/mock_data/
+    - assets/screenshots/
+
+  # Fonts (Optional - if you want custom fonts)
+  # fonts:
+  #   - family: Inter
+  #     fonts:
+  #       - asset: fonts/Inter-Regular.ttf
+  #       - asset: fonts/Inter-Bold.ttf
+  #         weight: 700
