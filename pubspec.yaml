@@ -37,12 +37,18 @@ dependencies:
 
   # Utils
   intl: ^0.20.2
-  meta: ^1.17.0
 
   # JSON Serialization
   json_annotation: ^4.9.0
 
 dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Testing
+  bloc_test: ^10.0.0
+  mocktail: ^1.0.4
+
   # Code Generation
   build_runner: ^2.10.4
   json_serializable: ^6.11.2
