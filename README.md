@@ -336,7 +336,7 @@ assets/screenshots/orders.png
 ### Debug:
 
 ```
-flutter build apk
+flutter build apk --debug --flavor development
 ```
 
 ### Release:
