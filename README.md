@@ -231,7 +231,7 @@ flutter pub get
 ### 3. Generate JSON model code
 
 ```
-flutter pub run build_runner build --delete-conflicting-outputs
+dart run build_runner build --delete-conflicting-outputs
 ```
 
 ### 4. Run the app
