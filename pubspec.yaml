@@ -30,7 +30,7 @@ dependencies:
   dartz: ^0.10.1
 
   # Local Storage
-  shared_preferences: ^2.5.3
+  shared_preferences: ^2.5.4
 
   # UI & Design
   shadcn_ui: ^0.39.14
